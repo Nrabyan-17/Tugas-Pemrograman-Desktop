@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Tugas_Pemrograman_Desktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6160F9-3F6F-42D3-8C7F-E762FA906C8E}|Tugas_Pemrograman_Desktop\\Tugas_Pemrograman_Desktop.vbproj|c:\\users\\lenovo\\source\\repos\\tugas_pemrograman_desktop\\tugas_pemrograman_desktop\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EF6160F9-3F6F-42D3-8C7F-E762FA906C8E}|Tugas_Pemrograman_Desktop\\Tugas_Pemrograman_Desktop.vbproj|solutionrelative:tugas_pemrograman_desktop\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6160F9-3F6F-42D3-8C7F-E762FA906C8E}|Tugas_Pemrograman_Desktop\\Tugas_Pemrograman_Desktop.vbproj|c:\\users\\lenovo\\source\\repos\\tugas_pemrograman_desktop\\tugas_pemrograman_desktop\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EF6160F9-3F6F-42D3-8C7F-E762FA906C8E}|Tugas_Pemrograman_Desktop\\Tugas_Pemrograman_Desktop.vbproj|solutionrelative:tugas_pemrograman_desktop\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Tugas_Pemrograman_Desktop\\Tugas_Pemrograman_Desktop\\Form1.vb",
+              "RelativeDocumentMoniker": "Tugas_Pemrograman_Desktop\\Form1.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Tugas_Pemrograman_Desktop\\Tugas_Pemrograman_Desktop\\Form1.vb",
+              "RelativeToolTip": "Tugas_Pemrograman_Desktop\\Form1.vb",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAYwJgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-24T12:15:11.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Tugas_Pemrograman_Desktop\\Tugas_Pemrograman_Desktop\\Form1.vb",
+              "RelativeDocumentMoniker": "Tugas_Pemrograman_Desktop\\Form1.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Tugas_Pemrograman_Desktop\\Tugas_Pemrograman_Desktop\\Form1.vb [Design]",
+              "RelativeToolTip": "Tugas_Pemrograman_Desktop\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-24T12:02:58.944Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
